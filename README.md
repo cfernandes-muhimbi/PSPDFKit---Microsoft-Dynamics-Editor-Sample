@@ -47,7 +47,7 @@ PSPDFKit.load({
 
 #### Prerequisites 2 - PSPDFKit License file ####
 
-Contact PDFPFKit [Named Link](https://pspdfkit.com/sales/ "sales team")
+Contact PDFPFKit [sales](https://pspdfkit.com/sales/ "sales team")
 
 You can update the license file when you bind the component to a field in the Form.
 
