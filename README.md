@@ -52,7 +52,7 @@ Contact PDFPFKit [sales](https://pspdfkit.com/sales/ "sales team")
 You can update the license file when you bind the component to a field in the Form.
 
 
-## Importing and Adding your component on the Form ##
+## Importing and adding your component on the Form ##
 
 
 
