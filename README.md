@@ -54,9 +54,8 @@ You can update the license file when you bind the component to a field in the Fo
 
 ## Importing and adding your component on the Form ##
 
-<div align="center">
-"https://user-images.githubusercontent.com/25176106/234597877-ed61d525-4b81-4f06-9f6e-7111b47ca95d.mp4"
-</div>
+https://user-images.githubusercontent.com/25176106/234597877-ed61d525-4b81-4f06-9f6e-7111b47ca95d.mp4
+
 
 
 
