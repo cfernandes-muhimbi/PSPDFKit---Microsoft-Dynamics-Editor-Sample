@@ -2,7 +2,7 @@
 The PowerApps Component Framework (PCF) Control retrieves notes containing PDF attachments and presents the chosen PDF utilizing PSPDFKit Web SDK.
 
 
-## What is PowerApps Component Framework(PCF)## 
+## What is PowerApps Component Framework(PCF) ## 
 Power Apps Component Framework (PCF) is a framework that allows developers to create custom components for Power Apps and Dynamics 365. With PCF, developers can extend the functionality of these applications by creating custom controls that can be reused across different applications and screens
 
 
