@@ -39,7 +39,7 @@ PSPDFKit.load({
             baseUrl : "<Storage account folder link>",
             licenseKey: this._context.parameters.psPdfKitLicenseKey.raw,
             container: ".pspdfkit-container",
-			document: this.arrBuffer,                       
+	    document: this.arrBuffer                       
         })
 ```
 
