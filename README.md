@@ -23,10 +23,10 @@ Steps for creating a storage account and hosting a file in the $web folder in Az
 7. Create a new "Folder" in the in the $web folder for the storage account.
 8. Click on "Upload" to upload the files you want to host. Make sure to set the "Blob type" to "Block blob".
 9. Once the files is uploaded, select it and click on "Copy URL" to get the URL of the file.
-10.To host the file in the $web folder, go to the "Containers" section and create a new container with the name "$web".
-11.Select the $web container and click on "Upload" to upload the file again. This time, set the "Blob type" to "Page blob".
-12.Once the file is uploaded to the $web container, copy the URL of the file again and replace the container name with "$web".
-13.The file is now hosted in the $web folder and can be accessed using the URL obtained in the previous step..
+10. To host the file in the $web folder, go to the "Containers" section and create a new container with the name "$web".
+11. Select the $web container and click on "Upload" to upload the file again. This time, set the "Blob type" to "Page blob".
+12. Once the file is uploaded to the $web container, copy the URL of the file again and replace the container name with "$web".
+13. The file is now hosted in the $web folder and can be accessed using the URL obtained in the previous step..
 
 We will include the Storage account link in section below -
 
